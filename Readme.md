@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Standard Specifiers Sample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Standard Specifiers Sample/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Format Display Values via Standard Format Specifiers
 
 
